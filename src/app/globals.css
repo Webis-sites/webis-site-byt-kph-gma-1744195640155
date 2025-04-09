@@ -30,6 +30,14 @@
 
   --card-shadow-hover: 8px 8px 20px rgba(0,0,0,0.07), -8px -8px 20px rgba(255,255,255,0.9);
   --card-border-radius: 1.25rem;
+
+  --neumorphic-bg: var(--tw-colors-neutral-100, #f5f5f5);
+  --neumorphic-shadow-light: 8px 8px 16px rgba(209, 205, 224, 0.5);
+  --neumorphic-shadow-dark: -8px -8px 16px rgba(255, 255, 255, 0.8);
+  --neumorphic-shadow-pressed: inset 2px 2px 5px rgba(209, 205, 224, 0.5), inset -2px -2px 5px rgba(255, 255, 255, 0.8);
+  --glassmorphism-bg: rgba(190, 138, 255, 0.15);
+  --glassmorphism-border: rgba(255, 255, 255, 0.2);
+  --glassmorphism-panel-bg: rgba(190, 138, 255, 0.25);
 }
 
     html {
