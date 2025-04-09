@@ -52,6 +52,12 @@
   --shadow-neumorphic-sm: 3px 3px 6px rgba(0, 0, 0, 0.1), -3px -3px 6px rgba(255, 255, 255, 0.8);
   --shadow-neumorphic-pressed: inset 2px 2px 5px rgba(0, 0, 0, 0.1), inset -2px -2px 5px rgba(255, 255, 255, 0.8);
   --blur-amount: 10px;
+
+  --font-heebo: var(--font-heebo);
+  --font-inter: var(--font-inter);
+  --card-blur: 12px;
+  --neumorphic-light: rgba(255, 255, 255, 0.8);
+  --glass-bg: rgba(255, 255, 255, 0.7);
 }
 
     html {
