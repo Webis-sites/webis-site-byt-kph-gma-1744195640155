@@ -12,6 +12,7 @@ import LocationSection from '../components/LocationSection';
 import CTASection from '../components/CTASection';
 import Footer from '../components/Footer';
 import Navbar from '../components/Navbar';
+import Layout from '../components/Layout';
 
 export default function HomePage() {
   return (
@@ -29,6 +30,7 @@ export default function HomePage() {
     <CTASection />
     <Footer />
     <Navbar />
+    <Layout />
   </main>
       
       <footer className="py-6 bg-gray-100 dark:bg-gray-800">
