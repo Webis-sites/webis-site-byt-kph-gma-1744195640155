@@ -15,6 +15,12 @@
   --neumorphic-button-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2), -5px -5px 10px rgba(255, 255, 255, 0.1);
   --glass-border: 1px solid rgba(255, 255, 255, 0.2);
   --glass-blur: 8px;
+
+  --card-shadow: 8px 8px 16px rgba(174, 174, 192, 0.4), -8px -8px 16px rgba(255, 255, 255, 0.8);
+  --card-hover-shadow: 8px 8px 18px rgba(174, 174, 192, 0.6), -8px -8px 18px rgba(255, 255, 255, 0.9), 0 0 20px rgba(190, 138, 255, 0.2);
+  --icon-shadow: 4px 4px 8px rgba(174, 174, 192, 0.2), -4px -4px 8px rgba(255, 255, 255, 0.7);
+  --card-border: 1px solid rgba(255, 255, 255, 0.5);
+  --card-border-hover: 1px solid rgba(190, 138, 255, 0.4);
 }
 
     html {
