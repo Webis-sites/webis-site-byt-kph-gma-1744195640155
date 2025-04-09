@@ -9,7 +9,13 @@
       --background-end-rgb: 255, 255, 255;
       --primary-color: #be8aff;
       --secondary-color: #ffffff;
-    }
+    
+  --neumorphic-shadow: 8px 8px 16px rgba(0, 0, 0, 0.2), -8px -8px 16px rgba(255, 255, 255, 0.1);
+  --neumorphic-shadow-inset: inset 2px 2px 5px rgba(0, 0, 0, 0.2), inset -2px -2px 5px rgba(255, 255, 255, 0.1);
+  --neumorphic-button-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2), -5px -5px 10px rgba(255, 255, 255, 0.1);
+  --glass-border: 1px solid rgba(255, 255, 255, 0.2);
+  --glass-blur: 8px;
+}
 
     html {
       scroll-behavior: smooth;
