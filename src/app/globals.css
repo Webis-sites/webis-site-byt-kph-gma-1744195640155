@@ -44,6 +44,10 @@
   --shadow-neumorphic: 20px 20px 60px rgba(0, 0, 0, 0.1), -20px -20px 60px rgba(255, 255, 255, 0.5);
 
   --shadow-neumorphic-hover: 8px 8px 16px rgba(0, 0, 0, 0.1), -8px -8px 16px rgba(255, 255, 255, 0.8);
+
+  --shadow-color: rgba(190, 138, 255, 0.15);
+  --shadow-color-hover: rgba(190, 138, 255, 0.25);
+  --shadow-color-active: rgba(190, 138, 255, 0.35);
 }
 
     html {
