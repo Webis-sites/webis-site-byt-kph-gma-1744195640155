@@ -58,6 +58,16 @@
   --card-blur: 12px;
   --neumorphic-light: rgba(255, 255, 255, 0.8);
   --glass-bg: rgba(255, 255, 255, 0.7);
+
+  --shadow-neumorphic-primary: 6px 6px 12px rgba(126, 58, 242, 0.15), -6px -6px 12px rgba(255, 255, 255, 0.7);
+  --shadow-neumorphic-primary-hover: 8px 8px 16px rgba(126, 58, 242, 0.2), -8px -8px 16px rgba(255, 255, 255, 0.8);
+  --shadow-neumorphic-primary-active: inset 4px 4px 8px rgba(126, 58, 242, 0.2), inset -4px -4px 8px rgba(255, 255, 255, 0.2);
+  --shadow-neumorphic-secondary: 6px 6px 12px rgba(63, 168, 170, 0.15), -6px -6px 12px rgba(255, 255, 255, 0.7);
+  --shadow-neumorphic-secondary-hover: 8px 8px 16px rgba(63, 168, 170, 0.2), -8px -8px 16px rgba(255, 255, 255, 0.8);
+  --shadow-neumorphic-secondary-active: inset 4px 4px 8px rgba(63, 168, 170, 0.2), inset -4px -4px 8px rgba(255, 255, 255, 0.2);
+  --shadow-neumorphic-light: 6px 6px 12px rgba(0, 0, 0, 0.05), -6px -6px 12px rgba(255, 255, 255, 0.8);
+  --shadow-neumorphic-light-hover: 8px 8px 16px rgba(0, 0, 0, 0.07), -8px -8px 16px rgba(255, 255, 255, 0.9);
+  --shadow-neumorphic-light-active: inset 4px 4px 8px rgba(0, 0, 0, 0.05), inset -4px -4px 8px rgba(255, 255, 255, 0.5);
 }
 
     html {
