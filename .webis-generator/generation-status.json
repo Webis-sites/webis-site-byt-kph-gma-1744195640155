@@ -1,11 +1,114 @@
 {
-  "timestamp": "2025-04-09T10:47:43.376Z",
+  "timestamp": "2025-04-09T10:48:41.917Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 17,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "RTL Hebrew hero section for Gamma Cafe with headline, description, and booking CTA"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Showcase of cafe services with visual cards and descriptions"
+    },
+    {
+      "name": "BookingSystem",
+      "type": "booking",
+      "status": "pending",
+      "description": "Interactive booking form with validation and confirmation"
+    },
+    {
+      "name": "TestimonialsSection",
+      "type": "testimonials",
+      "status": "pending",
+      "description": "Customer testimonials carousel with ratings and photos"
+    },
+    {
+      "name": "FAQSection",
+      "type": "faq",
+      "status": "pending",
+      "description": "Expandable FAQ section with common customer questions"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "Cafe history, mission and unique selling points"
+    },
+    {
+      "name": "GallerySection",
+      "type": "gallery",
+      "status": "pending",
+      "description": "Visual showcase of the cafe atmosphere and offerings"
+    },
+    {
+      "name": "LocationSection",
+      "type": "location",
+      "status": "pending",
+      "description": "Map and contact information with business hours"
+    },
+    {
+      "name": "CTASection",
+      "type": "cta",
+      "status": "pending",
+      "description": "Final call-to-action section to drive bookings"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "Site footer with navigation, social links and legal information"
+    },
+    {
+      "name": "Navbar",
+      "type": "navigation",
+      "status": "pending",
+      "description": "Responsive navigation bar with logo and menu"
+    },
+    {
+      "name": "Layout",
+      "type": "layout",
+      "status": "pending",
+      "description": "Main layout component with metadata and global styles"
+    },
+    {
+      "name": "BookingPage",
+      "type": "page",
+      "status": "pending",
+      "description": "Dedicated booking page with extended form and information"
+    },
+    {
+      "name": "MenuPage",
+      "type": "page",
+      "status": "pending",
+      "description": "Cafe menu page showcasing food and beverage offerings"
+    },
+    {
+      "name": "Button",
+      "type": "component",
+      "status": "pending",
+      "description": "Reusable button component with variants"
+    },
+    {
+      "name": "Card",
+      "type": "component",
+      "status": "pending",
+      "description": "Reusable card component for consistent styling"
+    },
+    {
+      "name": "SectionHeader",
+      "type": "component",
+      "status": "pending",
+      "description": "Reusable section header with title and subtitle"
+    }
+  ],
   "repoName": "webis-site-byt-kph-gma-1744195640155"
 }
