@@ -24,6 +24,9 @@
 
   --inner-shadow: inset 2px 2px 5px rgba(0,0,0,0.05), inset -2px -2px 5px rgba(255,255,255,0.5);
   --blur-effect: 10px;
+
+  --button-shadow: 4px 4px 8px rgba(209, 205, 224, 0.5), -4px -4px 8px rgba(255, 255, 255, 0.8);
+  --transition-speed: 0.3s;
 }
 
     html {
