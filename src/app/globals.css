@@ -38,6 +38,10 @@
   --glassmorphism-bg: rgba(190, 138, 255, 0.15);
   --glassmorphism-border: rgba(255, 255, 255, 0.2);
   --glassmorphism-panel-bg: rgba(190, 138, 255, 0.25);
+
+  --border-radius: 1.25rem;
+  --transition-duration: 0.3s;
+  --shadow-neumorphic: 20px 20px 60px rgba(0, 0, 0, 0.1), -20px -20px 60px rgba(255, 255, 255, 0.5);
 }
 
     html {
