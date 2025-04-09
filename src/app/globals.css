@@ -72,6 +72,9 @@
   --card-shadow-color: rgba(190, 138, 255, 0.2);
   --card-transition-duration: 0.3s;
   --card-glass-opacity: 0.85;
+
+  --glass-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.2);
+  --section-header-radius: 1.25rem;
 }
 
     html {
