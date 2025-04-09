@@ -21,6 +21,9 @@
   --icon-shadow: 4px 4px 8px rgba(174, 174, 192, 0.2), -4px -4px 8px rgba(255, 255, 255, 0.7);
   --card-border: 1px solid rgba(255, 255, 255, 0.5);
   --card-border-hover: 1px solid rgba(190, 138, 255, 0.4);
+
+  --inner-shadow: inset 2px 2px 5px rgba(0,0,0,0.05), inset -2px -2px 5px rgba(255,255,255,0.5);
+  --blur-effect: 10px;
 }
 
     html {
