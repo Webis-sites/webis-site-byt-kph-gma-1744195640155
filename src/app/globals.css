@@ -48,6 +48,10 @@
   --shadow-color: rgba(190, 138, 255, 0.15);
   --shadow-color-hover: rgba(190, 138, 255, 0.25);
   --shadow-color-active: rgba(190, 138, 255, 0.35);
+
+  --shadow-neumorphic-sm: 3px 3px 6px rgba(0, 0, 0, 0.1), -3px -3px 6px rgba(255, 255, 255, 0.8);
+  --shadow-neumorphic-pressed: inset 2px 2px 5px rgba(0, 0, 0, 0.1), inset -2px -2px 5px rgba(255, 255, 255, 0.8);
+  --blur-amount: 10px;
 }
 
     html {
