@@ -3,6 +3,7 @@
 import React from 'react';
 import HeroSection from '../components/HeroSection';
 import ServicesSection from '../components/ServicesSection';
+import BookingSystem from '../components/BookingSystem';
 
 export default function HomePage() {
   return (
@@ -11,6 +12,7 @@ export default function HomePage() {
         {/* כאן יתווספו הקומפוננטות שייווצרו על ידי המחולל */}
         <HeroSection />
     <ServicesSection />
+    <BookingSystem />
   </main>
       
       <footer className="py-6 bg-gray-100 dark:bg-gray-800">
